@@ -1,1 +1,2 @@
 # odin-recipes
+Hi! This Frank and this is going be my first project with The Odin Project. I will work on the HTML and will try to do my best on it even though the language itself are full of limitation and lack of some visualization. Let's gooooooooo!
