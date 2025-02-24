@@ -1,0 +1,45 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    display:flex;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+div.intro1{
+    background-color: bisque;
+    
+}
+.intro1 p.introdescrip1{
+    font-size: 20px;
+    margin-bottom: -20px;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.intro1 p.introdescrip2{
+    font-size: 12px;
+}
+.listofrecipes{
+    background-color: bisque;
+    padding-bottom: 20px;
+}
+.listofrecipes h2{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 2.3rem;
+    height: 40px;
+    margin-top: -2px;
+    display: flex;
+    align-items: center;
+}
